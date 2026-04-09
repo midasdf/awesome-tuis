@@ -786,3 +786,6 @@ There's a lot of cool projects here that I have no association with. Run them at
 ---
 
 </details>
+
+## Disclaimer
+This project uses AI-generated code (LLM). I do my best to review and test it, but I can't guarantee it's perfect. Please use it at your own risk.\n
